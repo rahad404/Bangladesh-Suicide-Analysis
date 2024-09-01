@@ -27,14 +27,6 @@ analysis:
 -Method Distribution: Analyze the most common methods used for suicides.
 -Method by Demographics: Investigate if certain methods are more prevalent in specific demographic groups.
 
-6. Mental Health Factors
--Mental Illness Correlation: Assess the relationship between known mental health issues and suicide.
--Medication and Treatment: Analyze the impact of medication or lack thereof on suicides.
-
-7. Risk Factor Identification
--Warning Signs: Identify common risk factors or warning signs leading up to suicides.
--Multiple Risk Factors: Explore cases with multiple risk factors and their outcomes.
-
 8. Impact of Social Relationships
 -Family Background: Study the influence of family history on suicide rates.
 -Relationship Status: Analyze the effect of relationship status (single, married, divorced) on suicide rates.
